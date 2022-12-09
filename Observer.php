@@ -1,4 +1,4 @@
-class MyCompany_MyModule_Model_Observer
+class Redirect_Model_Observer
 {
     public function redirectBasedOnCountry(Varien_Event_Observer $observer)
     {
